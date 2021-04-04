@@ -8,14 +8,14 @@ is_light = true
 primary = "#8f857f"
 
 # Menu
-menu_primary = "#116b0f"
+menu_primary = "#0c570a"
 menu_text = "#fffdf7"
 menu_text_active = "#fffdf7"
 menu_title = "#fffdf7"
 
 # Links
 link = "#8f857f"
-link_hover = "#fffdf7"
+link_hover = "#0c570a"
 link_decoration = "underline"
 
 # Home sections
