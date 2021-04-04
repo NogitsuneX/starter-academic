@@ -9,17 +9,17 @@ primary = "#700070"
 
 # Menu
 menu_primary = "#116b0f"
-menu_text = "#000"
-menu_text_active = "#000"
-menu_title = "#000"
+menu_text = "#fffdf7"
+menu_text_active = "#fffdf7"
+menu_title = "#fffdf7"
 
 # Links
-link = "#707070"
-link_hover = "#000"
+link = "#700070"
+link_hover = "#fffdf7"
 link_decoration = "underline"
 
 # Home sections
-home_section_odd = "#f9f7f6"
-home_section_even = "#ffffff"
+home_section_odd = "#f7e7b7"
+home_section_even = "#b7f7be"
 
 font = "rose"
