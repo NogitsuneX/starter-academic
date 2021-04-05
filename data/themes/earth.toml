@@ -14,7 +14,7 @@ menu_text_active = "#fffdf7"
 menu_title = "#fffdf7"
 
 # Links
-link = "#8a8780"
+link = "#78756f"
 link_hover = "#0c570a"
 link_decoration = "underline"
 
