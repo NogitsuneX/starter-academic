@@ -41,4 +41,4 @@ highlight_name: false
 ---
 Kseniya Katsman is a counseling psychology Ph.D. student at Fordham University. Her research interests include ageism interventions and therapists' well-being. Her clinical aspirations are working with older adults and conducting neuropsychological assessments. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/gradinfo_letter.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/KATSMAN_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
