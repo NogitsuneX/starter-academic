@@ -1,7 +1,7 @@
 ---
 title: Kseniya Katsman
 role: Counseling Psychology Ph.D. Student
-avatar_filename: new_profile_smaller.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include ageism interventions and therapists' well-being.
 interests:
   - Ageism Interventions
