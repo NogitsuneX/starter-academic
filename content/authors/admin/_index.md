@@ -2,8 +2,7 @@
 title: Kseniya Katsman
 role: Counseling Psychology Ph.D. Student
 avatar_filename: new_profile_smaller.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include ageism interventions and therapists' well-being.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -25,25 +24,23 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Fordham University
+    url: https://www.fordham.edu/info/20990/graduate_school_of_education
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: (In progress) Ph.D. in Counseling Psychology
+      institution: Fordham University
+      year: ""
+    - course: M.A. in Forensic Psychology
+      institution: John Jay College of Criminal Justice, City University of New York
+      year: 2018
+    - course: B.A. in Psychology
+      institution: Open University of Israel
+      year: 2015
 email: ""
 superuser: true
 highlight_name: false
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Kseniya Katsman is a counseling psychology Ph.D. student at Fordham University. Her research interests include ageism interventions and therapists' well-being. Her clinical aspirations are working with older adults and conducting neuropsychological assessments. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/gradinfo_letter.pdf" "newtab" >}}resumé{{< /staticref >}}.
