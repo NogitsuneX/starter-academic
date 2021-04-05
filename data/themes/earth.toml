@@ -19,7 +19,7 @@ link_hover = "#0c570a"
 link_decoration = "underline"
 
 # Home sections
-home_section_odd = "#fdfbf6"
+home_section_odd = "#fffcf7"
 home_section_even = "#ffffff"
 
 font = "rose"
