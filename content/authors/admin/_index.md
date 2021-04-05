@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: kkatsman@fordham.edu
+    link: "mailto: kkatsman@fordham.edu"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/KatsmanK
