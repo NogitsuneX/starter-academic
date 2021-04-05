@@ -4,9 +4,10 @@ role: Counseling Psychology Ph.D. Student
 avatar_filename: new_profile_smaller.jpg
 bio: My research interests include ageism interventions and therapists' well-being.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ageism Interventions
+  - Therapists' Well-Being
+  - Older Adults
+  - Neuropsychology
 social:
   - icon: envelope
     icon_pack: fas
